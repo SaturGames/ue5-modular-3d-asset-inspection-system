@@ -40,4 +40,4 @@ Modular, decoupled 3D asset inspection system, technical document overlay framew
 
 ---
 
-**Developed by Satur Systems** | *Interactive Logic & Simulation Developer*
+**Developed by Saturs Systems** | *Unreal Engine Developer | Gameplay & Simulation Systems*
